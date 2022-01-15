@@ -1,4 +1,4 @@
-# .Net Windows Froms Project
+# .Net Windows Forms Project
 
 <h2>Список файлов и их назначение</h2>
 
