@@ -1,0 +1,30 @@
+R:\c# programs\testTask\testTask\bin\Debug\testTask.exe.config
+R:\c# programs\testTask\testTask\bin\Debug\testTask.exe
+R:\c# programs\testTask\testTask\bin\Debug\testTask.pdb
+R:\c# programs\testTask\testTask\obj\Debug\testTask.csproj.AssemblyReference.cache
+R:\c# programs\testTask\testTask\obj\Debug\testTask.Form1.resources
+R:\c# programs\testTask\testTask\obj\Debug\testTask.Properties.Resources.resources
+R:\c# programs\testTask\testTask\obj\Debug\testTask.csproj.GenerateResource.cache
+R:\c# programs\testTask\testTask\obj\Debug\testTask.csproj.CoreCompileInputs.cache
+R:\c# programs\testTask\testTask\obj\Debug\testTask.exe
+R:\c# programs\testTask\testTask\obj\Debug\testTask.pdb
+R:\c sharp programs\testTask\testTask\bin\Debug\testTask.exe.config
+R:\c sharp programs\testTask\testTask\bin\Debug\testTask.exe
+R:\c sharp programs\testTask\testTask\bin\Debug\testTask.pdb
+R:\c sharp programs\testTask\testTask\obj\Debug\testTask.csproj.AssemblyReference.cache
+R:\c sharp programs\testTask\testTask\obj\Debug\testTask.Form1.resources
+R:\c sharp programs\testTask\testTask\obj\Debug\testTask.Properties.Resources.resources
+R:\c sharp programs\testTask\testTask\obj\Debug\testTask.csproj.GenerateResource.cache
+R:\c sharp programs\testTask\testTask\obj\Debug\testTask.csproj.CoreCompileInputs.cache
+R:\c sharp programs\testTask\testTask\obj\Debug\testTask.exe
+R:\c sharp programs\testTask\testTask\obj\Debug\testTask.pdb
+R:\c sharp i hate u\testTask\testTask\bin\Debug\testTask.exe.config
+R:\c sharp i hate u\testTask\testTask\bin\Debug\testTask.exe
+R:\c sharp i hate u\testTask\testTask\bin\Debug\testTask.pdb
+R:\c sharp i hate u\testTask\testTask\obj\Debug\testTask.csproj.AssemblyReference.cache
+R:\c sharp i hate u\testTask\testTask\obj\Debug\testTask.Form1.resources
+R:\c sharp i hate u\testTask\testTask\obj\Debug\testTask.Properties.Resources.resources
+R:\c sharp i hate u\testTask\testTask\obj\Debug\testTask.csproj.GenerateResource.cache
+R:\c sharp i hate u\testTask\testTask\obj\Debug\testTask.csproj.CoreCompileInputs.cache
+R:\c sharp i hate u\testTask\testTask\obj\Debug\testTask.exe
+R:\c sharp i hate u\testTask\testTask\obj\Debug\testTask.pdb
